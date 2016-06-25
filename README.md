@@ -20,8 +20,8 @@ Hamming Correction
 ==================
 Basically int this 3 Pictures we will see a small background about how Hamming correction works
 it is used in Physical layer  to transmit data, that data need to be like encrypted with a pattern 
-that allow to receiver adapter check if a signal has any erro in the message
-[Transmiting message]
+that allow to receiver adapter check if a signal has any erro in the message\n
+[Transmiting message]\n
 this image show how a message is transmitted by bits
 ![alt tag](https://raw.githubusercontent.com/Eduardogit/MathCodeprojects/master/Images/f3.jpg)
 those bits are coded with a pattern 
