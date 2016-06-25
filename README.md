@@ -16,5 +16,6 @@ A couple of college mathematics problems that i solve
   </li>
   <li>Multiplative ongruential ALgorithm</li>
 </ul>
-Hamming COrrection
+Hamming Correction
 ==================
+
